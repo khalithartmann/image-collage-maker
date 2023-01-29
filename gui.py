@@ -15,7 +15,7 @@ from typing import Tuple, Union
 
 import cv2
 import numpy as np
-import make_img as mkg
+import imagecollagemaker as mkg
 from io_utils import SafeText
 
 
